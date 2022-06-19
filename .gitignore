@@ -1,0 +1,5 @@
+node_modules
+.serverless
+hello
+.idea/
+package-lock.json
